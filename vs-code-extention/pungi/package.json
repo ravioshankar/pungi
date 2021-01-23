@@ -1,0 +1,33 @@
+{
+  "name": "pungi",
+  "displayName": "Pungi - The Python Charmers tool",
+  "version": "1.0.0",
+  "description": "VS Code useful extentions catalog to boost Python developers",
+  "publisher": "ravioshankar",
+  "icon": "assets/pungi-1.jpg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravioshankar/pungi.git"
+  },
+  "keywords": [
+    "Python"
+  ],
+  "author": "ravioshankar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravioshankar/pungi/issues"
+  },
+  "homepage": "https://github.com/ravioshankar/pungi/tree/master/vs-code-extention/pungi#readme",
+  "engines": {
+    "vscode": "^1.52.1"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "formulahendry.code-runner",
+    "littlefoxteam.vscode-python-test-adapter",
+    "eamodio.gitlens"
+  ]
+}
