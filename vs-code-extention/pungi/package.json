@@ -1,10 +1,10 @@
 {
   "name": "pungi",
   "displayName": "Pungi - The Python Charmers toolbox",
-  "version": "2.0.0",
-  "description": "VS Code extentions to boost Python developers",
+  "version": "3.0.0",
+  "description": "VS Code extentions to boost Python developers and Data scientist",
   "publisher": "ravioshankar",
-  "icon": "assets/pungi-1.png",
+  "icon": "assets/pungi-1.jpg",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ravioshankar/pungi.git"
@@ -37,6 +37,10 @@
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     "redhat.vscode-yaml",
     "mindaro.mindaro",
-    "github.codespaces"
+    "github.codespaces",
+    "randomfractalsinc.vscode-data-preview",
+    "randomfractalsinc.geo-data-viewer",
+    "redhat.vscode-datavirt",
+    "mongodb.mongodb-vscode"
   ]
 }
