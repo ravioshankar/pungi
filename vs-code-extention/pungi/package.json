@@ -4,7 +4,7 @@
   "version": "3.0.0",
   "description": "VS Code extentions to boost Python developers and Data scientist",
   "publisher": "ravioshankar",
-  "icon": "assets/pungi-1.jpg",
+  "icon": "assets/pungi.png",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ravioshankar/pungi.git"
@@ -41,6 +41,7 @@
     "randomfractalsinc.vscode-data-preview",
     "randomfractalsinc.geo-data-viewer",
     "redhat.vscode-datavirt",
-    "mongodb.mongodb-vscode"
+    "mongodb.mongodb-vscode",
+    "ms-ossdata.vscode-postgresql"
   ]
 }

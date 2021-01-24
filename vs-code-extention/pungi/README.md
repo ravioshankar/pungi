@@ -25,6 +25,7 @@ Want to include your favorate Python extention? Create an [issue](https://github
 
 [mongodb.mongodb-vscode](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode): Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases
 
+[ms-ossdata.vscode-postgresql](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql): Develop Postgres everywhere
 
 ---
 ### Developer Experience boost
