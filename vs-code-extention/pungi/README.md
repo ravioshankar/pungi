@@ -32,8 +32,6 @@ Want to include your favorate Python extention? Create an [issue](https://github
 
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Code runner for multiple languages
 
-[kiteco.kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite): AI powered autocomplete, code snippets, code signatures, and cursor-following documentation for VS Code. Code faster, stay in flow.
-
 [visualstudioexptteam.vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode): AI-assisted development
 
 [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker): Makes it easy to create, manage, and debug containerized applications.

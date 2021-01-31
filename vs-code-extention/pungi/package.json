@@ -1,7 +1,7 @@
 {
   "name": "pungi",
   "displayName": "Pungi - The Python Charmers toolbox",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "VS Code extentions to boost Python developers and Data scientist",
   "publisher": "ravioshankar",
   "icon": "assets/pungi.png",
@@ -32,7 +32,6 @@
     "visualstudioexptteam.vscodeintellicode",
     "ms-python.vscode-pylance",
     "ms-toolsai.jupyter",
-    "kiteco.kite",
     "ms-azuretools.vscode-docker",
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     "redhat.vscode-yaml",
